@@ -6,4 +6,4 @@ function Preloader() {
   );
 }
 
-export default Preloader;
+export { Preloader };
